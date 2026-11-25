@@ -7,7 +7,8 @@
 > **Partner:** [Welloop AB](https://welloop.se) · **Supervisor:** Kljadi Beqiraj (CEO, Welloop AB)  
 > **Subject Reader:** Serdar Tamiz · **Examiner:** Michał Zawadzki
 
-Diva Portal - https://www.diva-portal.org/smash/record.jsf?dswid=2007&pid=diva2%3A2072291&c=1&searchType=SIMPLE&language=en&query=harsha+vardhan+gobanna&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all
+**Diva Portal** - https://www.diva-portal.org/smash/record.jsf?dswid=2007&pid=diva2%3A2072291&c=1&searchType=SIMPLE&language=en&query=harsha+vardhan+gobanna&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all
+
 ---
 
 ## Overview
